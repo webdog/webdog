@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 -->
 
 | <img src="https://user-images.githubusercontent.com/960210/87176533-de192580-c29f-11ea-92ce-379535d2e074.png" alt="alt text" width="50%" height="50%"> | <img src="https://user-images.githubusercontent.com/960210/87176765-2b959280-c2a0-11ea-91d6-4eec182d7955.png" alt="alt text" width="50%" height="50%"> |
-|-|-|
+|:-:| :-: |
 | <img src="https://user-images.githubusercontent.com/960210/87186423-17a65c80-c2b1-11ea-9bd5-ff2f6cdc8350.png" alt="alt text" width="50%" height="50%"> | <img src="https://user-images.githubusercontent.com/960210/87176996-8929df00-c2a0-11ea-925d-6215e6e8cd2d.png" alt="alt text" width="50%" height="50%"> |
