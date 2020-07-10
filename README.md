@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![img](https://media2.giphy.com/media/l2SqhJ2Cj91fh8Kvm/giphy.gif)
+![image](https://user-images.githubusercontent.com/960210/87174916-81b50680-c29d-11ea-867e-aa360925324a.png)
